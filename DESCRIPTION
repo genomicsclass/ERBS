@@ -1,0 +1,8 @@
+Package: ERBS
+Title: ERBS
+Version: 1.0
+Date: 2015-03-31
+Author: Michael Love and Rafael Irizarry
+Maintainer: Michael Love <mlove@jimmy.harvard.edu>
+Description: Data Analysis for Genomics datasets
+License: GPL-3
